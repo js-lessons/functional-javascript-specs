@@ -1,6 +1,5 @@
 var assert = require('assert');
-var sinon = require('sinon');
-var doubleAll = require('../new/doubleAll');
+var doubleAll = require('../src/doubleAll');
 
 describe('doubleAll', function() {
   it('returns an array of elements doubled', function() {

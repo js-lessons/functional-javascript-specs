@@ -1,5 +1,5 @@
 var assert = require('assert');
-var upperCaser = require('../new/upperCaser');
+var upperCaser = require('../src/upperCaser');
 
 describe('upperCaser', function() {
   it('returns text uppercased', function() {

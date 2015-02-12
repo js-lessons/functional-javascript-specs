@@ -11,5 +11,9 @@
     "url": "git@bitbucket.org:js-stuff/functional-javascript.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2"
+  }
 }

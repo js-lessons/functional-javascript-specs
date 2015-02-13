@@ -13,8 +13,6 @@
   //}
 //}
 
-//module.exports = curryN
-
 function curryN(fn, n) {
   // If `n` argument was omitted, use the function .length property.
   if (typeof n !== 'number') n = fn.length

@@ -26,5 +26,3 @@ function repeat(operation, num) {
 //}
 
 module.exports = repeat
-
-module.exports = repeat
